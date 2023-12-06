@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "exit";
+    src: url(../font/a234f1d0.woff2);
+}
+
+body {
+    color: #2ee800;
+    background-color: #000000;
+    font-family: exit;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+
+.game-text {
+    padding-left: 10%;
+    padding-right: 15%;
+    font-size: 1.3em;
+    color: #084fdf;
+}
+
+.input_marker {
+    display: inline;
+    font-size: 1.3em;
+}
+
+.input_input, .game_input {
+    display: inline !important;
+    font-size: 1.2em;
+    font-family: exit   ;
+    width: 95%;
+    height: 50%;
+    color: #084fdf;
+    background-color: transparent;
+    border: transparent;
+}

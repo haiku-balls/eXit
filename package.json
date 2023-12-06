@@ -1,0 +1,14 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "description": "A game from the Mr. Robot series. eXit.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Haiku",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
